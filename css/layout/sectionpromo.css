@@ -1,0 +1,12 @@
+.promo{
+    width: 80%;
+    border-radius: 35px;
+}
+
+.promocao{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
